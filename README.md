@@ -17,4 +17,12 @@
 
   - Input collection function
   - Story generation function
-  - Include comments explaining code logic [4]
+  - Include comments explaining code logic
+ 
+* Completion:
+  - Aryan:
+  - Lucas:
+  - Tyler:
+  - Anjini:
+  - Poorna:
+  - Fyeha:
