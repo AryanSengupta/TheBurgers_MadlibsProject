@@ -21,7 +21,7 @@
  
 * Completion:
   - Aryan:
-  - Lucas:
+  - Lukas:
   - Tyler:
   - Anjini:
   - Poorna:
