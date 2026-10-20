@@ -18,11 +18,16 @@
   - Input collection function
   - Story generation function
   - Include comments explaining code logic
+
+* Plan:
+   - Story about burgers
+   - 1 person writes 3 sentences about a story about burgers
+   - 1 person per user input type
  
 * Completion:
-  - Aryan:
-  - Lukas:
-  - Tyler:
-  - Anjini:
-  - Poorna:
-  - Fyeha:
+  - Aryan(nouns):
+  - Lukas(verbs):
+  - Tyler(places):
+  - Anjini(adjectives):
+  - Poorna(adverbs):
+  - Fyeha(numbers):
