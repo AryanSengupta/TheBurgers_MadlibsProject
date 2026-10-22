@@ -23,6 +23,7 @@
    - Story about burgers
    - 1 person writes 3 sentences about a story about burgers
    - 1 person per user input type
+   - Make the names of your program exactly your input type's name with "get_" at the front (ex. Tyler's input type[places] = function name = get_place())
  
 * Completion:
   - Aryan(nouns):
