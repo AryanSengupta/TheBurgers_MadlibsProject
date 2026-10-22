@@ -35,7 +35,7 @@
 
 * Story: Must be in order!
    - Tyler: Once upon a time in [place], the city above [place], there were a bunch of [adjective] [noun]. Then, there came a [adjective] burger. His main goal was to [verb] the world.
-   - Lukas:
+   - Lukas: Armed with [number] golden fries, he [adverb] marched toward [place] to complete his mission. Suddenly, [number] [adjective] [noun]s appeared and tried to [verb] him. He decided to [adverb] [verb] back to [place] and feast with all [number] [noun]s.
    - Anjini:
    - Poorna:
    - Aryan:
