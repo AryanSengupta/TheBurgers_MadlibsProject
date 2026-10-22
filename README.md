@@ -32,3 +32,11 @@
   - Anjini(adjectives):
   - Poorna(adverbs):
   - Fyeha(numbers):
+
+* Story: Must be in order!
+   - Tyler: Once upon a time in [place], the city above [place], there were a bunch of [adjective] [noun]. Then, there came a [adjective] burger. His main goal was to [verb] the world.
+   - Lukas:
+   - Anjini:
+   - Poorna:
+   - Aryan:
+   - Fyeha:
