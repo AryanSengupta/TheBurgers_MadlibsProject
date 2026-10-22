@@ -36,7 +36,7 @@
 * Story: Must be in order!
    - Tyler: Once upon a time in [place], the city above [place], there were a bunch of [adjective] [noun]. Then, there came a [adjective] burger. His main goal was to [verb] the world.
    - Lukas: Armed with [number] golden fries, he [adverb] marched toward [place] to complete his mission. Suddenly, [number] [adjective] [noun]s appeared and tried to [verb] him. He decided to [adverb] [verb] back to [place] and feast with all [number] [noun]s.
-   - Anjini:
+   - Anjini: Just as the feast began, the ground started to shake and a [adjective] shadow covered the sky. A [adjective] giant fork came crashing down, and the burger realized this was the most [adjective] battle of his life. Even though he felt [adjective], he grabbed his [adjective] spatula and got ready to fight.
    - Poorna:
    - Aryan:
    - Fyeha:
